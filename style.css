@@ -1,0 +1,103 @@
+.headerImg{
+    background-image: url("2x/Banner@2x.png");
+    background-color: #cccccc;
+    height: 359px;
+}
+
+main{
+    max-width: 900px;
+    margin: auto;
+}
+
+.headBtn{
+    float: right;
+    padding: 1px 25px;
+}
+
+.nav{
+    float: left;
+    width: 350px;
+}
+
+.nav-item{
+    margin-right: 3%;
+}
+
+.nav-link{
+    font-size: 14px;
+    color: black;
+}
+
+
+.logo{
+    float: left;
+    height: 105px;
+    margin-right: 10%;
+}
+
+.picLogo{
+    color: white;
+    position: absolute;
+    left: 0;
+    top: 80%;
+    width: 100%;
+    text-align: center;
+    font-size: 75px;
+}
+
+.storyPic{
+    width: 430px;
+    height: 540px;
+}
+
+.trialBtn{
+    height:46px; 
+    width:326px; 
+    margin: -20px -174px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+}
+
+.cont{
+    position: relative;
+    top: -62px;
+    z-index: -1;
+}
+
+.custStor{
+    border-color: orange;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 256px;
+    padding: 10px;
+    width: 214px;
+    float: left;
+    margin-right: 10px;
+
+}
+
+.cardTitle{
+    color: #28a745;
+}
+
+.card-body{
+    height: 252px;
+    padding: 0;
+}
+
+.card-text{
+    color: #d8d8d8;
+    font-size: 12px;
+}
+
+.card-author{
+    color: #d8d8d8;
+    position: absolute;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding-right: 10px;
+}
